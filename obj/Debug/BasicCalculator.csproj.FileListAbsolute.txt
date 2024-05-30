@@ -1,0 +1,12 @@
+D:\Summer\BasicCalculator\bin\Debug\BasicCalculator.exe.config
+D:\Summer\BasicCalculator\bin\Debug\BasicCalculator.exe
+D:\Summer\BasicCalculator\bin\Debug\BasicCalculator.pdb
+D:\Summer\BasicCalculator\bin\Debug\Guna.UI2.dll
+D:\Summer\BasicCalculator\obj\Debug\BasicCalculator.csproj.AssemblyReference.cache
+D:\Summer\BasicCalculator\obj\Debug\BasicCalculator.Form1.resources
+D:\Summer\BasicCalculator\obj\Debug\BasicCalculator.Properties.Resources.resources
+D:\Summer\BasicCalculator\obj\Debug\BasicCalculator.csproj.GenerateResource.cache
+D:\Summer\BasicCalculator\obj\Debug\BasicCalculator.csproj.CoreCompileInputs.cache
+D:\Summer\BasicCalculator\obj\Debug\BasicCalculator.csproj.CopyComplete
+D:\Summer\BasicCalculator\obj\Debug\BasicCalculator.exe
+D:\Summer\BasicCalculator\obj\Debug\BasicCalculator.pdb
